@@ -2,7 +2,7 @@
 
 This project showcases a chatbot built using LangChain, equipped with web search functionality to provide precise answers to user queries. Powered by Groq's advanced NLP capabilities and integrated with Wikipedia, this chatbot offers an enhanced conversational experience.
 
-![Screenshot of the Chatbot Interface](Screenshot_2024-08-29_185809.png)
+![Screenshot of the Chatbot Interface](Screenshot%202024-08-29%20185809.png)
 
 ## Project Structure
 
